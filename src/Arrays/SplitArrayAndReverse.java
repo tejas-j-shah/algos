@@ -1,5 +1,6 @@
-import java.util.Arrays;
+package Arrays;
 
+import java.util.Arrays;
 public class SplitArrayAndReverse {
 
     public static void main(String[] args) {
